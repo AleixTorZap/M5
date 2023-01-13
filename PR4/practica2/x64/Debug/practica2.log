@@ -1,4 +1,0 @@
-﻿  practica2.cpp
-D:\OneDrive - Centre d'Estudis Monlau\1DAW\M5\uf1\practica2\practica2\practica2.cpp(96,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-  LINK : no se encontró D:\OneDrive - Centre d'Estudis Monlau\1DAW\M5\uf1\practica2\x64\Debug\practica2.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
-  practica2.vcxproj -> D:\OneDrive - Centre d'Estudis Monlau\1DAW\M5\uf1\practica2\x64\Debug\practica2.exe
