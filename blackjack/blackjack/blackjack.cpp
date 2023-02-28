@@ -1,4 +1,4 @@
-// Blackjack.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
+// Blackjack.cpp : Este archivo contiene la funciÃ³n "main". La ejecuciÃ³n del programa comienza y termina ahÃ­.
 //
 
 #include <iostream>
@@ -38,7 +38,7 @@ string NombrePaloCrupier;
 
 //FUNCIONES
 void StartGame() {
-	cout << "Bienvenido al Gran Casino LAUMON \n" << "¿Como te llamas? \n";
+	cout << "Bienvenido al Gran Casino LAUMON \n" << "Â¿Como te llamas? \n";
 	cin >> PlayerName;
 	cout << "Bien, " << PlayerName << " juguemnos al BLACKJACK. \n";
 }
@@ -129,7 +129,7 @@ void SacarCartasCrupier() {
 	choosed = false;
 	while (!choosed) {
 		palo = rand() % 4;
-		PosicionListaPalo = rand() % 4;
+		PosicionListaPalo = rand() % 13;
 		if (palo == 0) {
 			if (corazones[PosicionListaPalo] == 1) {
 				NombrePaloCrupier = "Corazones";
