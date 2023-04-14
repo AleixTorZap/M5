@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\OneDrive - Centre d'Estudis Monlau\1DAW\M5\UF3\Lanchas\Lanchas\Main.cpp(55,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+D:\OneDrive - Centre d'Estudis Monlau\1DAW\M5\UF3\Lanchas\Lanchas\Main.cpp(56,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Lanchas.vcxproj -> D:\OneDrive - Centre d'Estudis Monlau\1DAW\M5\UF3\Lanchas\x64\Debug\Lanchas.exe
